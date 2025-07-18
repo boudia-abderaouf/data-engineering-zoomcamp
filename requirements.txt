@@ -1,0 +1,27 @@
+# Core data engineering
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+pyarrow
+pgcli
+
+# Data transformation & validation
+dbt-core
+dbt-postgres
+great_expectations
+
+# Workflow orchestration
+apache-airflow
+# Data ingestion
+requests
+pydantic
+openpyxl  # Excel I/O
+fastparquet  # for Parquet files
+
+# Dev & utils
+jupyterlab
+ipython
+python-dotenv
+loguru
+tqdm
